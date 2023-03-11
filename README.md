@@ -1,7 +1,7 @@
 ### Olá, meu nome é João Lucas
 
-- 🔭 Atualmente Engenheiro de Software Backend.
-- 🌱 Estudante de Ciências da Computação na FEI.
+- Atualmente Engenheiro de Software Backend.
+- Estudante de Ciências da Computação na FEI.
 
 <div align="center">
   <a href="https://github.com/Sinedrio">
