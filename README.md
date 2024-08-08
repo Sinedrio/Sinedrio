@@ -19,7 +19,7 @@ Here are some of the technologies and tools I master:
 - 🚀 **Streaming Technologies:** Apache Kafka
 - 📊 **Monitoring Tools:** New Relic
 - 🌐 **Elasticsearch and AWS:** Experience in configuration and management
-- 📁 **Relational Databases:** Oracle
+- 📁 **Relational Databases:** MongoDB,Oracle
 
 ## Contact Me
 
